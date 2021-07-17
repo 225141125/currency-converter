@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: .5rem;
+}
+
+.input {
+  border: 1px solid #333;
+  border-radius: .3em;
+  padding: .25rem;
+  width: 7em;
+}
+
+select {
+  margin-left: .5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.card{
+ background-image: linear-gradient( to bottom,#3366ff 33%,#3366ff 33%,#4d79ff 34%);
+ padding: 6rem;
+ margin:6rem;
+ border-radius: 5px;
+
+}
